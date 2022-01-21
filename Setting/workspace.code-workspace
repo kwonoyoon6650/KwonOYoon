@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "../../권오윤/VSCode"
+		}
+	],
+	"settings": {
+		"git.autofetch": "all"
+	}
+}
